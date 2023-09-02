@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "username": "kevinpaulo",
+    "fullName": "Kevin Paulo",
+    "company": "Fake Company Co.",
+    "position": "Senior manager",
+    "picture": "https://github.com/kevinppaulo.png"
+  },
+  {
+    "id": 2,
+    "username": "johndoe",
+    "fullName": "John Doe",
+    "company": "Other Company LLC",
+    "position": "Senior Engineer",
+    "picture": "https://randomuser.me/api/portraits/men/73.jpg"
+  },
+  {
+    "id": 3,
+    "username": "jackdoe",
+    "fullName": "Jack Jackson",
+    "company": "Other Company LLC",
+    "position": "Junior Engineer",
+    "picture": "https://randomuser.me/api/portraits/men/76.jpg"
+  }
+]
